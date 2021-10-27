@@ -1,0 +1,25 @@
+.container1 {align-content: flex-start;border: 0.1px solid lightpink;width: 300px;height: 725px;
+border-radius: 25px;
+background-image: url(corals.jpg);
+box-shadow: 4.5px 2px 2px purple;
+flex-wrap: wrap;
+text-align: center;
+display: flex;
+float:left;}
+.container2 {padding: 0.5em;border: 0.1px;width: 280px;}
+.container3 {padding: 0.5em;border: 0.1px;width: 270px;
+text-align: left; color: white;
+text-shadow: 2px 2px #000000;}
+strong{font-size: 15px;color: hsl(39, 100%, 50%);}
+em {color: white;text-shadow: 2px 2px #000000;}
+img {border-radius: 50%;}
+h1 {font: italic 28pt Impact, "Franklin Gothic Bold", "Arial Black", sans-serif;
+margin: 1em; color: orange; text-shadow: 5px 5px black; align-items: flex-end;
+margin-top: 10px;
+margin-bottom: 10px;}
+.image-container {
+width: 500px;;
+position: center;}
+/*
+filter: blur(8px);
+-webkit-filter: blur(8px);
